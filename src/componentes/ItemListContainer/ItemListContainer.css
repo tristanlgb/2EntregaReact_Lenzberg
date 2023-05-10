@@ -1,0 +1,34 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-seriff;
+   
+}
+
+.container{
+    /* height: 100%;
+    width: 100%; */
+    margin: 0px;
+    padding: 40px;
+    /* background-color: rgb(218, 248, 249) */;
+     background-image: url(../../assets/tejidoniño.jpeg);
+     min-width: 100vw;
+   
+
+}
+
+.container h1{
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Montserrat:ital,wght@1,100;1,300&family=Poppins:wght@300;400;600;700&family=Short+Stack&display=swap');
+

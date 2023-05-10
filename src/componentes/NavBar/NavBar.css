@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Montserrat:ital,wght@1,100;1,300&family=Poppins:wght@300;400;600;700&family=Short+Stack&display=swap');
+
+.estilos {
+
+    background-color: black;
+    border: 2px solid black;
+    font-family: 'Montserrat', sans-seriff;
+    font-weight: 500 ;
+    
+    
+}
+
+.nav-brand{
+    cursor: pointer;
+}
+
+.nav-container{
+    
+
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid black; */
+    align-items: center;
+    padding: 20px 20px;
+    width: 100%;
+    height: 90px;
+    background-color: ivory;
+    
+   
+
+}
+
+
+
+.nav__items {
+    display: inline;
+    padding: 0px 30px;
+    
+}
+
+.nav__items a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.nav__items a:hover{
+    border-bottom: 1px solid black;
+}
+
+
+.btn btn-ghost btn-circle {
+    
+    padding: 0;
+}
+
+
+
+
+
